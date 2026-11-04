@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Ayushi Sachan</h1>
 
-<h3 align="center">LLM Post-Training | RLHF | AI Evaluation | Python</h3>
+<h3 align="center">Aspiring AI Engineer | Python Developer | Generative AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Generative+AI+%26+LLMs;Passionate+about+RLHF+%26+AI+Evaluation;Building+Reliable+AI+Systems;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+with+Python+%26+Generative+AI;Learning+LLMs+and+Machine+Learning;Turning+Ideas+into+AI+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AYUSHI-SUDO613">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/ayushi-sachan-0a27a2240/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:sachanayushi45@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/AYUSHI-SUDO613">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
@@ -23,16 +23,16 @@
 
 ## 👩‍💻 About Me
 
-I'm an MCA graduate with hands-on experience in LLM post-training, RLHF, prompt engineering, and AI response evaluation.
+I'm an MCA graduate passionate about Artificial Intelligence, Generative AI and building intelligent applications.
 
-I enjoy working on AI quality assessment, evaluating model outputs, identifying response issues, and providing structured feedback to improve AI performance.
+My experience includes working with LLM evaluation, prompt engineering, Python development and AI quality assessment. I'm continuously expanding my technical knowledge and exploring ways to build practical AI-powered solutions.
 
-- 🎓 MCA Graduate – NIET, Greater Noida (2026)
-- 🤖 Experience in LLM Post-Training and RLHF workflows.
-- 🧠 Interested in Generative AI, Prompt Engineering and Machine Learning.
-- 📊 Skilled in AI Evaluation, Dataset Curation and Error Analysis.
-- 💻 Programming with Python and C++.
-- 🌱 Continuously learning and exploring AI-driven technologies.
+- 🎓 MCA Graduate from NIET, Greater Noida.
+- 🤖 Interested in Artificial Intelligence and Generative AI.
+- 💻 Working with Python, SQL and software development fundamentals.
+- 🧠 Exploring LLMs, Machine Learning and AI applications.
+- 📊 Experience in AI evaluation, dataset curation and data analysis.
+- 🌱 Currently learning and building projects towards becoming an AI Engineer.
 
 ---
 
@@ -43,22 +43,21 @@ I enjoy working on AI quality assessment, evaluating model outputs, identifying 
 **LLM Post-Training Expert – Full-Time**
 *October 2026 – November 2026*
 
-- Contributed to LLM post-training and response evaluation workflows.
+- Contributed to LLM response evaluation and quality assessment workflows.
 - Evaluated model outputs and provided structured feedback.
 - Focused on response quality and instruction following.
 
 **AI/LLM Evaluation & Training Intern**
 *January 2026 – September 2026*
 
-- Supported LLM post-training workflows using RLHF.
-- Worked on dataset preparation, prompt structuring and response evaluation.
-- Evaluated AI-generated responses for correctness, relevance, safety, clarity and instruction following.
+- Supported LLM workflows through dataset preparation and prompt structuring.
+- Evaluated AI-generated responses for correctness, relevance, safety and clarity.
 - Created structured annotations and feedback to improve response quality.
-- Used evaluation rubrics to assess model outputs against defined criteria.
+- Worked with evaluation rubrics to assess model outputs.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 1. LLM Evaluation Pipeline & LLM-as-a-Judge
 
@@ -73,9 +72,9 @@ I enjoy working on AI quality assessment, evaluating model outputs, identifying 
 
 **Tech Stack:** Python | Speech Recognition | Pyttsx3
 
-- Built a Python-based virtual assistant supporting voice commands and reminders.
-- Integrated application control and information retrieval.
-- Implemented speech recognition and text-to-speech functionality.
+- Developed a Python-based virtual assistant supporting voice commands and reminders.
+- Integrated speech recognition and text-to-speech functionality.
+- Implemented application control and information retrieval.
 
 ### 3. Study Hive – Student Study Portal
 
@@ -83,7 +82,7 @@ I enjoy working on AI quality assessment, evaluating model outputs, identifying 
 
 - Developed a student portal with authentication and study material access.
 - Implemented notes management and a personalized dashboard.
-- Created database-backed functionality and a responsive interface.
+- Built database-backed functionality and a responsive interface.
 
 ---
 
@@ -91,34 +90,33 @@ I enjoy working on AI quality assessment, evaluating model outputs, identifying 
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 </p>
 
-### Tools & Technologies
+### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,mysql,django,html,css,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=django,git,github,docker,aws,vscode,html,css,js" />
 </p>
 
-### AI & LLM Skills
-
-- LLM Post-Training
-- Reinforcement Learning from Human Feedback (RLHF)
+### AI & Generative AI
+- Large Language Models (LLMs)
+- Generative AI Fundamentals
 - Prompt Engineering
 - LLM Evaluation
-- Evaluation Rubrics
+- RLHF
 - Dataset Curation
-- Data Annotation
-- Error Analysis
+- LLM-as-a-Judge
+- Ollama
 
 ### Data & Computer Science
-
-- Python, C++, SQL
-- Pandas, NumPy, Matplotlib
+- Python, SQL, C++
+- NumPy, Pandas, Matplotlib
 - Data Structures & Algorithms
-- OOPs, DBMS, Operating Systems
+- Object-Oriented Programming
+- DBMS
+- Operating Systems
 - Computer Networks
 - MySQL, SQL Server
-- Ollama
 
 ---
 
@@ -142,7 +140,7 @@ I enjoy working on AI quality assessment, evaluating model outputs, identifying 
 
 ---
 
-## 🏆 Leadership & Activities
+## 🏆 Leadership Experience
 
 **Team Lead – Design Thinking Hackathon**
 
@@ -151,28 +149,19 @@ I enjoy working on AI quality assessment, evaluating model outputs, identifying 
 
 ---
 
-## 📊 GitHub Statistics
+## 🤝 Let's Connect!
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AYUSHI-SUDO613&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🤝 Connect With Me
+I'm always interested in connecting with people working in AI, Generative AI, Python development and emerging technologies.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayushi-sachan-0a27a2240/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Ayushi_Sachan-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:sachanayushi45@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/AYUSHI-SUDO613">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Email-sachanayushi45%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! Let's connect and build something meaningful with AI. 🚀</i>
+  <i>Learning, building and growing towards becoming an AI Engineer. 🚀</i>
 </p>
