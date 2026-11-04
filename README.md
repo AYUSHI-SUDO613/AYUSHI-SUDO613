@@ -106,7 +106,7 @@ My experience includes working with LLM evaluation, prompt engineering, Python d
 
 <p align="left">
   <b>Django</b> • <b>Git</b> • <b>GitHub</b> •
-  <b>Docker</b> • <b>AWS</b> • <b>VS Code</b> •
+  <b>Docker</b> • <b>AWS</b> • <b>VS Code</b> 
 </p>
 
 ### AI & Generative AI
