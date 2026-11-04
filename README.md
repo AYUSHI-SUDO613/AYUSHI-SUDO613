@@ -89,13 +89,25 @@ My experience includes working with LLM evaluation, prompt engineering, Python d
 ## 🛠️ Technical Skills
 
 ### Programming Languages
-<p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql" />
 </p>
 
+<p align="left">
+  <b>Python</b> • <b>C++</b> • <b>MySQL</b>
+</p>
+
 ### Frameworks & Tools
-<p>
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=django,git,github,docker,aws,vscode,html,css,js" />
+</p>
+
+<p align="left">
+  <b>Django</b> • <b>Git</b> • <b>GitHub</b> •
+  <b>Docker</b> • <b>AWS</b> • <b>VS Code</b> •
+  <b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b>
 </p>
 
 ### AI & Generative AI
@@ -105,7 +117,6 @@ My experience includes working with LLM evaluation, prompt engineering, Python d
 - LLM Evaluation
 - RLHF
 - Dataset Curation
-- LLM-as-a-Judge
 - Ollama
 
 ### Data & Computer Science
