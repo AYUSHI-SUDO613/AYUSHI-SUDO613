@@ -101,13 +101,12 @@ My experience includes working with LLM evaluation, prompt engineering, Python d
 ### Frameworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,git,github,docker,aws,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=django,git,github,docker,aws,vscode" />
 </p>
 
 <p align="left">
   <b>Django</b> • <b>Git</b> • <b>GitHub</b> •
   <b>Docker</b> • <b>AWS</b> • <b>VS Code</b> •
-  <b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b>
 </p>
 
 ### AI & Generative AI
