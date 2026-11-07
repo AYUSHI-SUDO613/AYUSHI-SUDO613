@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayushi Sachan</h1>
 
-<h3 align="center">Aspiring AI Engineer | Python Developer | Generative AI Enthusiast</h3>
+<h3 align="center">Aspiring AI Engineer | Generative AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Building+with+Python+%26+Generative+AI;Learning+LLMs+and+Machine+Learning;Turning+Ideas+into+AI+Solutions" alt="Typing SVG" />
